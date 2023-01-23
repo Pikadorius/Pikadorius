@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Pikadorius!
-- 👀 I’m interested in living my life.
-- 🌱 I’m currently learning React, Redux and TS.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m Egor Karpuk.👋 
+I am Front-End developer.
 
 <!---
 Pikadorius/Pikadorius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
