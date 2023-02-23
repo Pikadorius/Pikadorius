@@ -16,7 +16,12 @@
   </a>
 </div>
 
-[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?width=700&align=center&titleAlign=center&fontWeight=normal&lineCount=3&theme=github_dark&line1=react,React,61DAFB;redux,Redux,764ABC;postman,postman,FF6C37;typescript,typescript,3178C6;axios,axios,5A29E4;&line2=html5,html5,E34F26;css3,css3,1572B6;storybook,storybook,09B3AF;mui,mui,007FFF;sass,sass,CC6699;&line3=javascript,javascript,F7DF1E;Git,Git,F05032;reacthookform,react%20hook%20form,EC5990;reactrouter,React%20router%20dom,CA4245;jest,jest,C21325;)](https://github-readme-tech-stack.vercel.app/api/cards?align=center&titleAlign=center&fontWeight=normal&lineCount=3&theme=github_dark&line1=react,React,61DAFB;redux,Redux,764ABC;postman,postman,FF6C37;typescript,typescript,3178C6;axios,axios,5A29E4;&line2=html5,html5,E34F26;css3,css3,1572B6;storybook,storybook,09B3AF;mui,mui,007FFF;sass,sass,CC6699;&line3=javascript,javascript,F7DF1E;Git,Git,F05032;reacthookform,react%20hook%20form,EC5990;reactrouter,React%20router%20dom,CA4245;jest,jest,C21325;)
+<h3 align="center">Stack</h3>
+<div align="center">
+  
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?width=700&align=center&titleAlign=center&fontWeight=normal&lineCount=3&theme=github_dark&line1=react,React,61DAFB;redux,Redux,764ABC;postman,postman,FF6C37;typescript,typescript,3178C6;axios,axios,5A29E4;&line2=html5,html5,E34F26;css3,css3,1572B6;storybook,storybook,09B3AF;mui,mui,007FFF;sass,sass,CC6699;&line3=javascript,javascript,F7DF1E;Git,Git,F05032;reacthookform,react%20hook%20form,EC5990;reactrouter,React%20router%20dom,CA4245;jest,jest,C21325;)]
+  
+</div>
 
 
 
