@@ -6,7 +6,7 @@
 <div align="center">
   <h3 align="center">Contacts</h3>
   <a href="https://www.linkedin.com/in/karpuk-egor/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-green?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-darkgreen?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/Pikadorius" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-green?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
