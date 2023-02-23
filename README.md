@@ -3,7 +3,5 @@
 <h3 align="center">Front-end Developer from Belarus🇺</h3>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Pikadorius&theme=dark)](https://git.io/streak-stats)
-
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-[![codewars](https://www.codewars.com/users/Pikadorius/badges/large)](https://www.codewars.com/users/username)
+<align="center">[![GitHub Streak](https://streak-stats.demolab.com/?user=Pikadorius&theme=dark)](https://git.io/streak-stats)</>
+<align="center">[![codewars](https://www.codewars.com/users/Pikadorius/badges/large)](https://www.codewars.com/users/username)</>
