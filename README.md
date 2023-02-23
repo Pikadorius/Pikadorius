@@ -5,6 +5,6 @@
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Pikadorius&theme=dark)](https://git.io/streak-stats)
 
-[![codewars](https://www.codewars.com/users/Pikadorius/badges/large)](https://www.codewars.com/users/username)
+[![codewars](https://www.codewars.com/users/Pikadorius/badges/large)](https://www.codewars.com/users/Pikadorius)
   
 </h2>
