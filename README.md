@@ -21,7 +21,7 @@
 <h3 align="center">Stats</h3>
 <div align="center"> 
   
-![GitHub Streak](https://streak-stats.demolab.com/?user=Pikadorius&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Pikadorius&theme=github-dark)
   
 </div>
 
