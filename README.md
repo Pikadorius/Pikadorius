@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  <span align="center">My contacts</span>
+  <h3 align="center">My contacts</h3>
   <a href="https://www.linkedin.com/in/karpuk-egor/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -20,6 +20,7 @@
 
 
 <h3 align="center">
+<h3 align="center">My contacts</h3>
   
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Pikadorius&theme=dark)
   
