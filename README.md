@@ -4,8 +4,9 @@
 <h2 align="center">I am a Front-end Developer from Belarus</h3>
 
 
-<h3 align="center">My contacts</h2>
+
 <div align="center">
+  <span align="center">My contacts</span>
   <a href="https://www.linkedin.com/in/karpuk-egor/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -17,13 +18,11 @@
   </a>
 </div>
 
-<h3 align="center">My stats</h2>
 
 <h3 align="center">
-  
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Pikadorius&theme=dark]
   
 [![codewars](https://www.codewars.com/users/Pikadorius/badges/large)](https://www.codewars.com/users/Pikadorius)
   
-</h2>
+</h3>
