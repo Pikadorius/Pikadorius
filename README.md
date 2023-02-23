@@ -1,3 +1,5 @@
+![alt text](https://www.linkedin.com/in/karpuk-egor/overlay/background-image/)
+
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/karpuk-egor/" target="_blank">Egor Karpuk</a>!</h1>
 <h3 align="center">Front-end Developer from Belarus</h3>
 
