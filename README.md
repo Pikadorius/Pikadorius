@@ -4,7 +4,7 @@
 <hr>
 
 <div align="center">
-  <h3 align="center">My contacts</h3>
+  <h3 align="center">Contacts</h3>
   <a href="https://www.linkedin.com/in/karpuk-egor/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -18,14 +18,14 @@
 
 
 
-<h3 align="center">My stats</h3>
+<h3 align="center">Stats</h3>
 <div align="center"> 
   
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Pikadorius&theme=dark)
   
 </div>
 
-<h3 align="center">My codewars</h3>  
+<h3 align="center">Codewars</h3>  
 <div align="center">
   
 [![codewars](https://www.codewars.com/users/Pikadorius/badges/large)](https://www.codewars.com/users/Pikadorius)
