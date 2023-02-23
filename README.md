@@ -3,14 +3,14 @@
 <h1 align="center">Hi there!</h1>
 <h3 align="center">I am a Front-end Developer from Belarus</h3>
 
-<div id="badges" align="center">
-  <a style={'width:100px'} href="https://www.linkedin.com/in/karpuk-egor/">
+<div align="center">
+  <a href="https://www.linkedin.com/in/karpuk-egor/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a style={'width:100px'} href="https://t.me/Pikadorius">
+  <a href="https://t.me/Pikadorius">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a style={'width:100px'} href="@karpukea@yandex.by">
+  <a href="mailto:karpukea@yandex.ru">
     <img src="https://img.shields.io/badge/Mail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"/>
   </a>
 </div>
