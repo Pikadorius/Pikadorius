@@ -26,7 +26,7 @@
 </div>
 
 <h3 align="center">My codewars</h3>  
-<div>
+<div align="center">
   
 [![codewars](https://www.codewars.com/users/Pikadorius/badges/large)](https://www.codewars.com/users/Pikadorius)
   
