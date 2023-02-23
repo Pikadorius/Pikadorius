@@ -3,6 +3,8 @@
 <h1 align="center">Hi there!</h1>
 <h3 align="center">I am a Front-end Developer from Belarus</h3>
 
+
+<h2>My contacts</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/karpuk-egor/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
