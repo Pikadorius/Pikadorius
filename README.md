@@ -4,13 +4,13 @@
 <h3 align="center">I am a Front-end Developer from Belarus</h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/karpuk-egor/">
+  <a href="https://www.linkedin.com/in/karpuk-egor/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://t.me/Pikadorius">
+  <a href="https://t.me/Pikadorius" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="mailto:karpukea@yandex.ru">
+  <a href="mailto:karpukea@yandex.ru" target="_blank">
     <img src="https://img.shields.io/badge/Mail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"/>
   </a>
 </div>
