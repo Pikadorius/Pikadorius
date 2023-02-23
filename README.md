@@ -1,9 +1,9 @@
 ![(https://www.linkedin.com/in/karpuk-egor/overlay/background-image/)](https://media.licdn.com/dms/image/D4D16AQFt9LNDBl4t1A/profile-displaybackgroundimage-shrink_350_1400/0/1674672437458?e=1682553600&v=beta&t=j3HK0onq0aeSVWcisjzZo9qOFGaOYLQFH2kZUhKKHow)
 
 <h1 align="center">Hi there!</h1>
-<h2 align="center">I am a Front-end Developer from Belarus</h3>
+<h3 align="center">I am a Front-end Developer from Belarus</h3>
 
-
+<hr>
 
 <div align="center">
   <h3 align="center">My contacts</h3>
