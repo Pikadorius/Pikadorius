@@ -19,8 +19,9 @@
 </div>
 
 
-<h3 align="center">
-<h3 align="center">My contacts</h3>
+
+<h3 align="center">My stats</h3>
+<h3 align="center"> 
   
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Pikadorius&theme=dark)
   
