@@ -7,10 +7,10 @@
   <a style={'width:100px'} href="https://www.linkedin.com/in/karpuk-egor/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://t.me/Pikadorius">
+  <a style={'width:100px'} href="https://t.me/Pikadorius">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="karpukea@yandex.by">
+  <a style={'width:100px'} href="@karpukea@yandex.by">
     <img src="https://img.shields.io/badge/Mail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"/>
   </a>
 </div>
