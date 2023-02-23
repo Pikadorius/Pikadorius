@@ -9,10 +9,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-darkgreen?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/Pikadorius" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-green?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-darkgreen?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="mailto:karpukea@yandex.ru" target="_blank">
-    <img src="https://img.shields.io/badge/Mail-green?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"/>
+    <img src="https://img.shields.io/badge/Mail-darkgreen?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"/>
   </a>
 </div>
 
