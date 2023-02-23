@@ -6,13 +6,13 @@
 <div align="center">
   <h3 align="center">Contacts</h3>
   <a href="https://www.linkedin.com/in/karpuk-egor/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-green?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/Pikadorius" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-green?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="mailto:karpukea@yandex.ru" target="_blank">
-    <img src="https://img.shields.io/badge/Mail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"/>
+    <img src="https://img.shields.io/badge/Mail-green?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"/>
   </a>
 </div>
 
