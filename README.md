@@ -1,4 +1,4 @@
-<h1 align="center" style="color:green">Hi there! I am Egor Karpuk</h1>
+{* <h1 align="center" style="color:green">Hi there! I am Egor Karpuk</h1>
 <h3 align="center">Front-end Developer from Belarus</h3>
 
 <hr>
@@ -38,3 +38,4 @@
 [![codewars](https://www.codewars.com/users/Pikadorius/badges/large)](https://www.codewars.com/users/Pikadorius)
   
 </div>
+*}
